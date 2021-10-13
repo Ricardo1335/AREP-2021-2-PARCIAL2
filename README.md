@@ -7,7 +7,15 @@ Para este parcial las funciones designadas fueron:
 ## Cedula
 1000722771
 
+## Funcionamiento
 
+* ATAN
+
+![](/img/media/img1.PNG)
+
+* LN
+
+![](/img/media/img2.PNG)
 
 ## Correr proyecto
 
