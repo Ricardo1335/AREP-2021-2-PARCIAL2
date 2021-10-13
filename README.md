@@ -11,11 +11,11 @@ Para este parcial las funciones designadas fueron:
 
 * ATAN
 
-![](/img/media/img1.PNG)
+![](https://github.com/Ricardo1335/AREP-2021-2-PARCIAL2/blob/main/images/img1.png)
 
 * LN
 
-![](/img/media/img2.PNG)
+![](https://github.com/Ricardo1335/AREP-2021-2-PARCIAL2/blob/main/images/img2.png)
 
 ## Correr proyecto
 
