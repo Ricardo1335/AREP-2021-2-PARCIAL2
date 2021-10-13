@@ -17,9 +17,9 @@ public class SparkServer
             JSONObject json = new JSONObject();
             Double value = Double.parseDouble(req.queryParams("value"));
             Calculator calculator = new Calculator();
-            json.put("operation","ln");
-            json.put("input",value);            
             json.put("output",calculator.ln(value));
+            json.put("input",value);
+            json.put("operation","ln");
             return json;
         });
 
@@ -27,9 +27,9 @@ public class SparkServer
             JSONObject json = new JSONObject();
             Double value = Double.parseDouble(req.queryParams("value"));
             Calculator calculator = new Calculator();
-            json.put("operation","atan");
-            json.put("input",value);            
             json.put("output",calculator.atan(value));
+            json.put("input",value);            
+            json.put("operation","atan");
             return json;
         });
     }
