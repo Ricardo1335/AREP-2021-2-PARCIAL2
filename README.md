@@ -49,7 +49,7 @@ $ docker run -d -p 5000:6000 --name parcialamaya parcialamaya
  ```
 ## Video
 
-[]!(https://youtu.be/WI5NMTVxEK0)
+[Video](https://youtu.be/WI5NMTVxEK0)
 
 ### Prerequisitos
 
