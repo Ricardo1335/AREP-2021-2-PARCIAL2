@@ -47,7 +47,9 @@ Luego ejecutamos el siguiente comando para ejecutar el docker
 $ docker build --tag parcialamaya .
 $ docker run -d -p 5000:6000 --name parcialamaya parcialamaya
  ```
+## Video
 
+[]!(https://youtu.be/WI5NMTVxEK0)
 
 ### Prerequisitos
 
